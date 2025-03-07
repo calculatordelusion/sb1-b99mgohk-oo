@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet-async';
 import { motion } from 'framer-motion';
 import CookieClicker from '../components/CookieClicker';
 
@@ -10,6 +11,14 @@ const Game: React.FC = () => {
       exit={{ opacity: 0 }}
       transition={{ duration: 0.5 }}
     >
+      <Helmet>
+        <title>Cookie Clicker Unblocked - Play Now!</title>
+        <meta
+          name="description"
+          content="Play Cookie Clicker Unblocked! Click the cookie, earn upgrades, and become the ultimate cookie tycoon in this addictive idle game."
+        />
+      </Helmet>
+
       <div className="py-8">
         <div className="container mx-auto px-4">
           <div className="text-center mb-8">
