@@ -169,7 +169,7 @@ const DMCA: React.FC = () => {
                   <br />
                   Gaming City, GC 12345
                   <br />
-                  Email: copyright@cookieclickerunblocked.com
+                  Email: copyright@unblockedcookieclicker.io
                 </p>
               </div>
             </section>
