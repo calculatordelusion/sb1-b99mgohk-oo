@@ -97,10 +97,10 @@ const Terms: React.FC = () => {
                 If you have any questions about these Terms of Service, please
                 contact us at{' '}
                 <a
-                  href="mailto:support@cookieclickerunblocked.app"
+                  href="mailto:support@unblockedcookieclicker.io"
                   className="text-amber-800 hover:underline"
                 >
-                  support@cookieclickerunblocked.app
+                  support@unblockedcookieclicker.io
                 </a>
                 .
               </p>
@@ -113,3 +113,4 @@ const Terms: React.FC = () => {
 };
 
 export default Terms;
+
