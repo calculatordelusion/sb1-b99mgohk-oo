@@ -141,10 +141,10 @@ const Footer: React.FC = () => {
           </p>
           <p className="mt-2 text-amber-300">
             <a
-              href="https://cookieclickerunblocked.app"
+              href="https://unblockedcookieclicker.io"
               className="text-amber-300 hover:underline"
             >
-              cookieclickerunblocked.app
+              unblockedcookieclicker.io
             </a>
           </p>
         </div>
